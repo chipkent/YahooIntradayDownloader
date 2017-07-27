@@ -1,0 +1,5 @@
+YHOO
+AAPL
+GOOG
+AMZN
+FB
